@@ -1,6 +1,7 @@
 data
 images
 rename.sh
+models/model.ipynb
 
 #My file having OPENAI_API_KEYS
 OPENAI_API_KEYS.txt
