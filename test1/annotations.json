@@ -1,0 +1,169 @@
+{
+    "1.png1294160": {
+        "filename": "1_1.png",
+        "size": 1294160,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        115,
+                        115,
+                        2,
+                        2
+                    ],
+                    "all_points_y": [
+                        138,
+                        269,
+                        270,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        113,
+                        127,
+                        3,
+                        3
+                    ],
+                    "all_points_y": [
+                        285,
+                        454,
+                        459,
+                        285
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        132,
+                        0,
+                        2
+                    ],
+                    "all_points_y": [
+                        472,
+                        635,
+                        640,
+                        470
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        130,
+                        138,
+                        5,
+                        3
+                    ],
+                    "all_points_y": [
+                        647,
+                        725,
+                        735,
+                        654
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        279,
+                        277,
+                        572,
+                        572
+                    ],
+                    "all_points_y": [
+                        140,
+                        180,
+                        175,
+                        140
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        279,
+                        585,
+                        584,
+                        287
+                    ],
+                    "all_points_y": [
+                        275,
+                        275,
+                        445,
+                        459
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        290,
+                        285,
+                        590,
+                        590
+                    ],
+                    "all_points_y": [
+                        632,
+                        467,
+                        464,
+                        620
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        299,
+                        294,
+                        585,
+                        584
+                    ],
+                    "all_points_y": [
+                        724,
+                        652,
+                        637,
+                        719
+                    ]
+                },
+                "region_attributes": {
+                    "label": "Crop"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
